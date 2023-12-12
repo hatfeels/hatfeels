@@ -10,16 +10,26 @@
 
 # Leguajes
 - JavaScrip
-- Java (en desarrollo)
+- Java
 
 # Tecnologias
+(JavaScript)
 - React
 - Redux
 - Node.js
 - Expres
-- PostgreSQL
 - Secualize
 
+(Java)
+- JUnit
+- JDBC
+- Hibernate/ORM3
+- SpringBoot (en progreso)
+
+(Data Base)
+- PostgrsSQL
+- MySQL
+- MongoDB (en progreso)
 
 # Puedes contactarme
 ayrton.torres.1995@gmail.com
